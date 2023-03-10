@@ -1,3 +1,8 @@
+/*
+Name: Damien Ticer
+Date: 03/09/2023
+Assignment Title: Assignment 4
+*/
 #include <stdio.h>
 
 // function declarations
